@@ -206,8 +206,12 @@ mytodo-app/
 3. Deploy the built files to your hosting platform
 
 ## 📱 Screenshots
+![Screenshot 2025-07-02 131019](https://github.com/user-attachments/assets/88d7a869-8fa2-46ce-8048-8979d79b0ded)
+![Screenshot 2025-07-02 131040](https://github.com/user-attachments/assets/5f6cbb84-539b-4e26-8603-8fa5899deab5)
+![Screenshot 2025-07-02 131057](https://github.com/user-attachments/assets/f850411c-5da8-4ada-a111-a844043ff81c)
+![Screenshot 2025-07-02 131110](https://github.com/user-attachments/assets/11cb435e-31bb-4e3f-bc96-8e7ccb1b8c1e)
+![Screenshot 2025-07-02 131149](https://github.com/user-attachments/assets/d4ced514-fac7-4617-94a5-afef581cc63d)
 ![Screenshot 2025-07-02 131149](https://github.com/user-attachments/assets/92bd47af-b8ae-4546-ac6a-1c25abf9ad06)
-![Screenshot 2025-07-02 131149](https://github.com/user-attachments/assets/2b152083-2d9b-478c-9cd9-894e5a522090)
 
 
 
